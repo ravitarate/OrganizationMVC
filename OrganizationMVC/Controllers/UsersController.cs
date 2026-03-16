@@ -17,6 +17,19 @@ namespace OrganizationMVC.Controllers
             return View(users.ToList());
         }
 
+        // GET: Users/Search?searchTerm=abc
+        public PartialViewResult Search(string searchTerm)
+        {
+            var users = db.Users.Include(u => u.Department);
+
+            if (!string.IsNullOrEmpty(searchTerm))
+            {
+                users = users.Where(u => u.UserName.Contains(searchTerm) || u.Email.Contains(searchTerm));
+            }
+
+            return PartialView("_UserTable", users.ToList());
+        }
+
         // GET: Users/Details/5
         public ActionResult Details(int? id)
         {
@@ -82,7 +95,7 @@ namespace OrganizationMVC.Controllers
             return View(user);
         }
 
-        // POST: Users/Delete/5
+      
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
@@ -91,6 +104,25 @@ namespace OrganizationMVC.Controllers
             db.Users.Remove(user);
             db.SaveChanges();
             return RedirectToAction("Index");
+        }
+
+        // POST: Users/DeleteAjax/5
+        [HttpPost]
+        public JsonResult DeleteAjax(int id)
+        {
+            try
+            {
+                User user = db.Users.Find(id);
+                if (user == null) return Json(new { success = false, message = "User not found" });
+
+                db.Users.Remove(user);
+                db.SaveChanges();
+                return Json(new { success = true });
+            }
+            catch (System.Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message });
+            }
         }
 
         protected override void Dispose(bool disposing)

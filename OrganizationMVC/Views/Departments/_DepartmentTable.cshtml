@@ -1,0 +1,12 @@
+@model IEnumerable<OrganizationMVC.Models.Department>
+
+@foreach (var item in Model) {
+    <tr id="row-@item.DepartmentId">
+        <td>@Html.DisplayFor(modelItem => item.DepartmentName)</td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.DepartmentId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.DepartmentId }) |
+            <a href="javascript:void(0)" onclick="deleteDepartment(@item.DepartmentId)" class="text-danger">Delete</a>
+        </td>
+    </tr>
+}

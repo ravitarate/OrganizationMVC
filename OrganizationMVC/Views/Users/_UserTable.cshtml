@@ -1,0 +1,14 @@
+@model IEnumerable<OrganizationMVC.Models.User>
+
+@foreach (var item in Model) {
+    <tr id="row-@item.UserId">
+        <td>@Html.DisplayFor(modelItem => item.UserName)</td>
+        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+        <td>@Html.DisplayFor(modelItem => item.Department.DepartmentName)</td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.UserId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.UserId }) |
+            <a href="javascript:void(0)" onclick="deleteUser(@item.UserId)" class="text-danger">Delete</a>
+        </td>
+    </tr>
+}

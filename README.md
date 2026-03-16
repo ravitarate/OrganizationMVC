@@ -74,3 +74,8 @@ The application maps to two primary database tables using Entity Framework:
    * To interact with Users, navigate to `/Users` in the browser.
 
 
+## 📸 Screenshots
+*(You can add screenshots of your User Index Page and Department Create Page here!)*
+
+## 📝 License
+This project is for educational and assignment purposes.

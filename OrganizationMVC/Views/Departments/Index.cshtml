@@ -6,23 +6,66 @@
 
 <h2>Departments</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
-</p>
-<table class="table table-striped table-hover">
-    <tr>
-        <th>@Html.DisplayNameFor(model => model.DepartmentName)</th>
-        <th>Actions</th>
-    </tr>
+<div class="row">
+    <div class="col-md-6">
+        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+    </div>
+    <div class="col-md-6 text-end">
+        <input type="text" id="deptSearch" placeholder="Search departments..." class="form-control d-inline-block" style="width: 250px;" />
+    </div>
+</div>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>@Html.DisplayFor(modelItem => item.DepartmentName)</td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.DepartmentId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.DepartmentId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.DepartmentId })
-        </td>
-    </tr>
-}
+<br />
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.DepartmentName)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody id="deptTableBody">
+        @Html.Partial("_DepartmentTable", Model)
+    </tbody>
 </table>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#deptSearch").on("keyup", function () {
+                var value = $(this).val();
+                $.ajax({
+                    url: "@Url.Action("Search", "Departments")",
+                    type: "GET",
+                    data: { searchTerm: value },
+                    success: function (result) {
+                        $("#deptTableBody").html(result);
+                    }
+                });
+            });
+        });
+
+        function deleteDepartment(id) {
+            if (confirm("Are you sure you want to delete this department?")) {
+                $.ajax({
+                    url: "@Url.Action("DeleteAjax", "Departments")",
+                    type: "POST",
+                    data: { id: id },
+                    success: function (response) {
+                        if (response.success) {
+                            $("#row-" + id).fadeOut(500, function () {
+                                $(this).remove();
+                            });
+                        } else {
+                            alert("Error: " + response.message);
+                        }
+                    },
+                    error: function () {
+                        alert("An error occurred while deleting the department.");
+                    }
+                });
+            }
+        }
+    </script>
+}
