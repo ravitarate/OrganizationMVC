@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|c:\\users\\admin\\source\\repos\\organizationmvc\\organizationmvc\\migrations\\202603160719416_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\migrations\\202603160719416_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\bin\\entityframework.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\bin\\entityframework.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\models\\organizationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\models\\organizationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202603160719416_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Migrations\\202603160719416_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Migrations\\202603160719416_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Migrations\\202603160719416_InitialCreate.cs",
+              "RelativeToolTip": "OrganizationMVC\\Migrations\\202603160719416_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:19:56.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "OrganizationMVC\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:19:26.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityFramework.xml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\bin\\EntityFramework.xml",
+              "RelativeDocumentMoniker": "OrganizationMVC\\bin\\EntityFramework.xml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\bin\\EntityFramework.xml",
+              "RelativeToolTip": "OrganizationMVC\\bin\\EntityFramework.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-16T07:02:21.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "OrganizationMVC\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwGIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:38:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "OrganizationMVC\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:34:00.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\User.cs",
+              "RelativeToolTip": "OrganizationMVC\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:29:13.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrganizationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\OrganizationDbContext.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Models\\OrganizationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\OrganizationDbContext.cs",
+              "RelativeToolTip": "OrganizationMVC\\Models\\OrganizationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:28:24.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\Department.cs",
+              "RelativeToolTip": "OrganizationMVC\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:25:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.config",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Web.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.config",
+              "RelativeToolTip": "OrganizationMVC\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-16T06:06:50.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "OrganizationMVC\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:48:31.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OrganizationMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:10:50.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "OrganizationMVC\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:10:41.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.Release.config",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Web.Release.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.Release.config",
+              "RelativeToolTip": "OrganizationMVC\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-16T06:07:28.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.Debug.config",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.Debug.config",
+              "RelativeToolTip": "OrganizationMVC\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-16T06:07:21.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

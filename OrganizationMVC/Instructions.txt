@@ -1,0 +1,29 @@
+# Setup Instructions for OrganizationMVC
+
+I have generated the Models, Controllers, and Views based on your database structure directly into your project folder. 
+Since these files were generated externally, Visual Studio may not automatically include them in your project file (.csproj). 
+
+Please follow these steps to include them and run your project:
+
+## 1. Include Files in Visual Studio
+1. Open your `OrganizationMVC` solution in Visual Studio.
+2. In the **Solution Explorer** on the right side, click the **"Show All Files"** button (an icon with dotted folders at the top of Solution Explorer).
+3. Expand the **Models**, **Controllers**, and **Views** folders.
+4. You will see the new files as 'dotted' or gray icons. Select the newly generated files:
+   - `Models/Department.cs`, `Models/User.cs`, `Models/OrganizationDbContext.cs`
+   - `Controllers/DepartmentsController.cs`, `Controllers/UsersController.cs`
+   - All folders/files under `Views/Departments` and `Views/Users`.
+5. Right-click the selected files/folders and select **"Include In Project"**.
+
+## 2. Verify Entity Framework
+The project uses Entity Framework for database operations. Ensure Entity Framework is installed in your project:
+1. Go to **Tools** > **NuGet Package Manager** > **Package Manager Console**.
+2. Run the command: `Install-Package EntityFramework`
+
+## 3. Configure Database
+Your `Web.config` has been updated with a connection string named **OrganizationDbConnection**. By default, it uses LocalDB. 
+If you are using a specific SQL Server instance (like SQLEXPRESS), please update the connection string in `Web.config` accordingly.
+
+## 4. Run the Application
+1. Press `F5` to build and run the application.
+2. Navigate to `/Departments` or `/Users` in the browser to test the CRUD operations!
