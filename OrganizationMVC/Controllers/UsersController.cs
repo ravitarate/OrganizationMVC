@@ -125,6 +125,14 @@ namespace OrganizationMVC.Controllers
             }
         }
 
+        // GET: Users/IsEmailAvailable?Email=abc@xyz.com
+        [HttpGet]
+        public JsonResult IsEmailAvailable(string Email, int? UserId)
+        {
+            var user = db.Users.FirstOrDefault(u => u.Email == Email && (UserId == null || u.UserId != UserId));
+            return Json(user == null, JsonRequestBehavior.AllowGet);
+        }
+
         protected override void Dispose(bool disposing)
         {
             if (disposing) db.Dispose();

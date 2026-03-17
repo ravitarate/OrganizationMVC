@@ -3,64 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|c:\\users\\admin\\source\\repos\\organizationmvc\\organizationmvc\\views\\departments\\_departmenttable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\_departmenttable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|c:\\users\\admin\\source\\repos\\organizationmvc\\organizationmvc\\views\\users\\_usertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\users\\_usertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|c:\\users\\admin\\source\\repos\\organizationmvc\\organizationmvc\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|c:\\users\\admin\\source\\repos\\organizationmvc\\organizationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|c:\\users\\admin\\source\\repos\\organizationmvc\\organizationmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\_departmenttable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\_departmenttable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|c:\\users\\admin\\source\\repos\\organizationmvc\\organizationmvc\\migrations\\202603170556291_addedvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\migrations\\202603170556291_addedvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\users\\_usertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\users\\_usertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|solutionrelative:organizationmvc\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB3A77EF-5EC7-4665-A0DA-EC8513E5F70A}|OrganizationMVC\\OrganizationMVC.csproj|C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\organizationmvc\\models\\organizationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,11 +110,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "OrganizationMVC\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T06:09:44.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "OrganizationMVC\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAUwIcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:34:00.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_DepartmentTable.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\_DepartmentTable.cshtml",
               "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\_DepartmentTable.cshtml",
@@ -119,7 +153,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\Department.cs",
+              "RelativeToolTip": "OrganizationMVC\\Models\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:25:45.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\User.cs",
+              "RelativeToolTip": "OrganizationMVC\\Models\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:29:13.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "OrganizationMVC\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwIAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:38:24.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OrganizationMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:10:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "OrganizationMVC\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:59:40.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202603170556291_AddedValidation.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Migrations\\202603170556291_AddedValidation.cs",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Migrations\\202603170556291_AddedValidation.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Migrations\\202603170556291_AddedValidation.cs",
+              "RelativeToolTip": "OrganizationMVC\\Migrations\\202603170556291_AddedValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:56:36.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "OrganizationMVC\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:58:59.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_UserTable.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Users\\_UserTable.cshtml",
               "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Users\\_UserTable.cshtml",
@@ -132,32 +257,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "OrganizationMVC\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:58:55.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Users\\Edit.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Users\\Edit.cshtml",
               "RelativeToolTip": "OrganizationMVC\\Views\\Users\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-16T09:59:23.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Edit.cshtml",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Edit.cshtml",
-              "RelativeToolTip": "OrganizationMVC\\Views\\Departments\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "OrganizationMVC\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:58:59.887Z"
+              "WhenOpened": "2026-03-16T06:48:31.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OrganizationMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T11:02:17.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Details.cshtml",
               "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Details.cshtml",
@@ -169,33 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "OrganizationMVC\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T06:34:00.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OrganizationMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T11:02:17.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Users\\Details.cshtml",
@@ -207,43 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Users\\Index.cshtml*",
-              "RelativeToolTip": "OrganizationMVC\\Views\\Users\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:59:40.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "OrganizationMVC\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAIwH8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T06:38:24.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Delete.cshtml",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Delete.cshtml",
-              "RelativeToolTip": "OrganizationMVC\\Views\\Departments\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:58:55.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "OrganizationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\OrganizationDbContext.cs",
               "RelativeDocumentMoniker": "OrganizationMVC\\Models\\OrganizationDbContext.cs",
@@ -255,55 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OrganizationMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T06:10:50.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\Department.cs",
-              "RelativeToolTip": "OrganizationMVC\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T06:25:45.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\User.cs",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Models\\User.cs",
-              "RelativeToolTip": "OrganizationMVC\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T06:29:13.093Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Create.cshtml",
-              "RelativeDocumentMoniker": "OrganizationMVC\\Views\\Departments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Views\\Departments\\Create.cshtml",
-              "RelativeToolTip": "OrganizationMVC\\Views\\Departments\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T06:48:31.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.config",
               "RelativeDocumentMoniker": "OrganizationMVC\\Web.config",
@@ -316,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "202603160719416_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Migrations\\202603160719416_InitialCreate.cs",
               "RelativeDocumentMoniker": "OrganizationMVC\\Migrations\\202603160719416_InitialCreate.cs",
@@ -328,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "EntityFramework.xml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\bin\\EntityFramework.xml",
               "RelativeDocumentMoniker": "OrganizationMVC\\bin\\EntityFramework.xml",
@@ -340,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "OrganizationMVC\\Migrations\\Configuration.cs",
@@ -352,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "OrganizationMVC\\Properties\\AssemblyInfo.cs",
@@ -364,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Web.Release.config",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.Release.config",
               "RelativeDocumentMoniker": "OrganizationMVC\\Web.Release.config",
@@ -376,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\OrganizationMVC\\OrganizationMVC\\Web.Debug.config",
               "RelativeDocumentMoniker": "OrganizationMVC\\Web.Debug.config",

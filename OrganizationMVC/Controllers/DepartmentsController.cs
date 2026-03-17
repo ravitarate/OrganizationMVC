@@ -120,6 +120,14 @@ namespace OrganizationMVC.Controllers
             return RedirectToAction("Index");
         }
 
+        
+        [HttpGet]
+        public JsonResult IsDepartmentNameAvailable(string DepartmentName, int? DepartmentId)
+        {
+            var dept = db.Departments.FirstOrDefault(d => d.DepartmentName == DepartmentName && (DepartmentId == null || d.DepartmentId != DepartmentId));
+            return Json(dept == null, JsonRequestBehavior.AllowGet);
+        }
+
         protected override void Dispose(bool disposing)
         {
             if (disposing) db.Dispose();

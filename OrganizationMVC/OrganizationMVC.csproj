@@ -137,6 +137,10 @@
     <Compile Include="Migrations\202603160719416_InitialCreate.Designer.cs">
       <DependentUpon>202603160719416_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202603170556291_AddedValidation.cs" />
+    <Compile Include="Migrations\202603170556291_AddedValidation.Designer.cs">
+      <DependentUpon>202603170556291_AddedValidation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Department.cs" />
     <Compile Include="Models\OrganizationDbContext.cs" />
@@ -329,6 +333,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202603160719416_InitialCreate.resx">
       <DependentUpon>202603160719416_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202603170556291_AddedValidation.resx">
+      <DependentUpon>202603170556291_AddedValidation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
