@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Web.Mvc; 
@@ -18,7 +19,7 @@ namespace OrganizationMVC.Models
         [Required(ErrorMessage = "Email is required")]
         [StringLength(100)]
         [EmailAddress(ErrorMessage = "Invalid Email Address")]
-        [Remote("IsEmailAvailable", "Users", ErrorMessage = "Email already in use")]
+        [Remote("IsEmailAvailable", "Users", AdditionalFields = "UserId", ErrorMessage = "Email already in use")]
         public string Email { get; set; }
 
         [Required(ErrorMessage = "Please select a department")]
@@ -27,5 +28,7 @@ namespace OrganizationMVC.Models
 
         [ForeignKey("DepartmentId")]
         public virtual Department Department { get; set; }
-    }  
+
+        public virtual ICollection<UserDocument> UserDocuments { get; set; }
+    }
 }

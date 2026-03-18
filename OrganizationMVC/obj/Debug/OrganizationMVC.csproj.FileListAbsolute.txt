@@ -69,3 +69,5 @@ C:\Users\ADMIN\source\repos\OrganizationMVC\OrganizationMVC\obj\Debug\Organizati
 C:\Users\ADMIN\source\repos\OrganizationMVC\OrganizationMVC\obj\Debug\OrganizationMVC.Migrations.InitialCreate.resources
 C:\Users\ADMIN\source\repos\OrganizationMVC\OrganizationMVC\obj\Debug\OrganizationMVC.csproj.GenerateResource.cache
 C:\Users\ADMIN\source\repos\OrganizationMVC\OrganizationMVC\obj\Debug\OrganizationMVC.Migrations.AddedValidation.resources
+C:\Users\ADMIN\source\repos\OrganizationMVC\OrganizationMVC\obj\Debug\OrganizationMVC.Migrations.AddedDocumentSupport.resources
+C:\Users\ADMIN\source\repos\OrganizationMVC\OrganizationMVC\obj\Debug\OrganizationMVC.Migrations.AddedMultiDocumentSupport.resources

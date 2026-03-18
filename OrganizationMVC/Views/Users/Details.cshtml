@@ -17,6 +17,26 @@
 
         <dt>Department</dt>
         <dd>@Html.DisplayFor(model => model.Department.DepartmentName)</dd>
+
+        <dt>Documents</dt>
+        <dd>
+            @if (Model.UserDocuments != null && Model.UserDocuments.Any())
+            {
+                <ul>
+                    @foreach (var doc in Model.UserDocuments)
+                    {
+                        <li>
+                            @doc.FileName 
+                            (@Html.ActionLink("Download", "DownloadDocument", new { id = doc.UserDocumentId }))
+                        </li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <span class="text-muted">No documents uploaded.</span>
+            }
+        </dd>
     </dl>
 </div>
 <p>

@@ -53,7 +53,7 @@
                     type: "POST",
                     data: { id: id },
                     success: function (response) {
-                        if (response.success) {
+                        if (response.success) {   
                             $("#row-" + id).fadeOut(500, function () {
                                 $(this).remove();
                             });

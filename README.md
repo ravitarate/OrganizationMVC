@@ -1,81 +1,73 @@
 # Organization CRUD MVC Application
 
-This is a complete ASP.NET Web MVC application designed to demonstrate Create, Read, Update, and Delete (CRUD) operations using Entity Framework Code-First and SQL Server LocalDB. 
+This is a complete ASP.NET Web MVC application designed to demonstrate Create, Read, Update, and Delete (CRUD) operations using Entity Framework Code-First and SQL Server.
 
 ## 📋 Features
 
-* **Department Management**: Add, view, edit, and delete company departments.
-* **User Management**: Add, view, edit, and delete users while assigning them to existing departments.
-* **Relational Database**: Demonstrates a One-to-Many relationship (One Department -> Multiple Users).
-* **Automated Scaffolding**: Utilizes built-in ASP.NET MVC scaffolding for quick view generation.
-* **Entity Framework ORM**: Uses Code-First migrations to automatically generate and update database tables from C# objects.
+*   **Department Management**: Add, view, edit, and delete company departments.
+*   **User Management**: Add, view, edit, and delete users while assigning them to existing departments.
+*   **AJAX Dynamic Search**: Real-time filtering for both Users and Departments as you type.
+*   **AJAX Smart Delete**: Perform deletions with an asynchronous confirmation and a smooth row fade-out animation.
+*   **Strict Model Validation**: Data Integrity ensured via Data Annotations (`[Required]`, `[EmailAddress]`).
+*   **Remote Validation**: Real-time uniqueness checks for Emails and Department Names using AJAX.
+*   **Relational Database**: Demonstrates a One-to-Many relationship (One Department -> Multiple Users).
+*   **Entity Framework ORM**: Uses Code-First migrations to automatically sync database tables with C# objects.
 
 ## 🛠️ Technology Stack
 
-* **Framework**: .NET Framework 4.7.2
-* **Architecture**: MVC (Model-View-Controller)
-* **ORM**: Entity Framework 6 (Code-First)
-* **Database**: SQL Server (LocalDB by default)
-* **UI**: HTML, Razor View Engine (`.cshtml`), Bootstrap CSS
-* **IDE**: Visual Studio 2022
+*   **Framework**: .NET Framework 4.7.2
+*   **Architecture**: MVC (Model-View-Controller)
+*   **ORM**: Entity Framework 6 (Code-First)
+*   **Database**: SQL Server (LocalDB / Express)
+*   **UI**: HTML, CSS (Bootstrap), Razor View Engine (`.cshtml`)
+*   **Libraries**: jQuery (used for AJAX and UI animations)
 
 ## 🗄️ Database Structure
 
-The application maps to two primary database tables using Entity Framework:
-
 **`Departments` Table**
-* `DepartmentId` (INT, Primary Key)
-* `DepartmentName` (NVARCHAR)
+* `DepartmentId` (Primary Key)
+* `DepartmentName` (Name of the department)
 
 **`Users` Table**
-* `UserId` (INT, Primary Key)
-* `UserName` (NVARCHAR)
-* `Email` (NVARCHAR)
-* `DepartmentId` (INT, Foreign Key referencing `Departments`)
+* `UserId` (Primary Key)
+* `UserName` (Name of the user)
+* `Email` (Validated unique email)
+* `DepartmentId` (Foreign Key referencing `Departments`)
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-* Visual Studio 2019 or 2022
-* SQL Server Express / LocalDB (included with Visual Studio)
+* Visual Studio 2022
+* SQL Server Express / LocalDB
 
 ### Installation & Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. **Open the project**
+1. **Clone & Open**
    Open `OrganizationMVC.sln` using Visual Studio.
 
-3. **Install NuGet Packages**
-   Visual Studio should automatically restore missing packages. If not, open the **Package Manager Console** (`Tools > NuGet Package Manager > Package Manager Console`) and run:
-   ```powershell
-   Update-Package -Reinstall
-   ```
+2. **Restore Packages**
+   Visual Studio should automatically restore NuGet packages. If not, run `Update-Package -Reinstall` in the Package Manager Console.
 
-4. **Run Entity Framework Migrations**
-   To create the SQL Database exactly as defined by the C# Models, run these two commands in the **Package Manager Console**:
+3. **Database Setup (Migrations)**
+   Run these commands in the **Package Manager Console** to build your database:
    ```powershell
-   # If you haven't enabled migrations yet:
    Enable-Migrations
-
-   # Generate the migration file
    Add-Migration InitialCreate
-
-   # Apply the migration to SQL Server to create the actual tables
    Update-Database
    ```
 
-5. **Run the Application**
-   * Press **F5** in Visual Studio to build and launch the project.
-   * To interact with Departments, navigate to `/Departments` in the browser.
-   * To interact with Users, navigate to `/Users` in the browser.
+4. **Update for Validation**
+   If you have made changes to the models, run:
+   ```powershell
+   Add-Migration AddedValidation
+   Update-Database
+   ```
 
+5. **Run**
+   Press **F5** to build and launch the project in your browser.
 
 ## 📸 Screenshots
-*(You can add screenshots of your User Index Page and Department Create Page here!)*
+*(Add screenshots of your User Index and Department Search pages here!)*
 
 ## 📝 License
 This project is for educational and assignment purposes.

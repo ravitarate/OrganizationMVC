@@ -141,10 +141,19 @@
     <Compile Include="Migrations\202603170556291_AddedValidation.Designer.cs">
       <DependentUpon>202603170556291_AddedValidation.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202603180651050_AddedDocumentSupport.cs" />
+    <Compile Include="Migrations\202603180651050_AddedDocumentSupport.Designer.cs">
+      <DependentUpon>202603180651050_AddedDocumentSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202603181006095_AddedMultiDocumentSupport.cs" />
+    <Compile Include="Migrations\202603181006095_AddedMultiDocumentSupport.Designer.cs">
+      <DependentUpon>202603181006095_AddedMultiDocumentSupport.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Department.cs" />
     <Compile Include="Models\OrganizationDbContext.cs" />
     <Compile Include="Models\User.cs" />
+    <Compile Include="Models\UserDocument.cs" />
     <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -336,6 +345,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202603170556291_AddedValidation.resx">
       <DependentUpon>202603170556291_AddedValidation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202603180651050_AddedDocumentSupport.resx">
+      <DependentUpon>202603180651050_AddedDocumentSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202603181006095_AddedMultiDocumentSupport.resx">
+      <DependentUpon>202603181006095_AddedMultiDocumentSupport.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

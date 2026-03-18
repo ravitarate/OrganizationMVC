@@ -10,5 +10,6 @@ namespace OrganizationMVC.Models
 
         public DbSet<Department> Departments { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<UserDocument> UserDocuments { get; set; }
     }
 }
